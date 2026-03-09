@@ -17,19 +17,6 @@ export default function Support() {
         </p>
 
         <section className="mt-12">
-          <h2 className="text-xl font-medium">Contact</h2>
-          <p className="mt-2 text-zinc-600 dark:text-zinc-400">
-            Having trouble? Reach out to us at{" "}
-            <a
-              href="mailto:support@cluckcluckcross.com"
-              className="underline underline-offset-4"
-            >
-              support@cluckcluckcross.com
-            </a>
-          </p>
-        </section>
-
-        <section className="mt-12">
           <h2 className="text-xl font-medium">FAQ</h2>
           <div className="mt-4 space-y-8">
             <div>
