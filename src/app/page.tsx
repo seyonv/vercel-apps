@@ -1,8 +1,11 @@
 import Link from "next/link";
 
 const apps: { name: string; slug: string; description: string }[] = [
-  // Add your apps here as you publish them:
-  // { name: "My App", slug: "my-app", description: "A brief description" },
+  {
+    name: "Cluck Cluck Cross",
+    slug: "cluck-cluck-cross",
+    description: "A Crossy Road-inspired arcade game with a time rewind twist.",
+  },
 ];
 
 export default function Home() {
