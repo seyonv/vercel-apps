@@ -6,6 +6,12 @@ const apps: { name: string; slug: string; description: string }[] = [
     slug: "cluck-cluck-cross",
     description: "A Crossy Road-inspired arcade game with a time rewind twist.",
   },
+  {
+    name: "Preflop",
+    slug: "preflop",
+    description:
+      "GTO-solved preflop range trainer for 9-max cash games on Mac.",
+  },
 ];
 
 export default function Home() {
